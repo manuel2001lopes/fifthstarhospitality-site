@@ -1,14 +1,14 @@
 # Fifth Star Hospitality
 
-> Consultoria de serviço e vendas para hotéis e alojamentos independentes em Portugal. Ajudamos unidades independentes ou familiares (cerca de 5 a 40 quartos) a ter mais reservas diretas, pagar menos comissões às plataformas e ganhar mais por hóspede, com padrões de serviço de hotelaria de luxo.
+> Consultoria de serviço e vendas para hotéis e alojamentos independentes em Portugal. Ajudamos unidades independentes ou familiares (cerca de 5 a 40 quartos) a ter mais reservas diretas, pagar menos comissões às plataformas e ganhar mais por hóspede, com padrões de serviço de hotelaria de luxo. Fundada por um profissional com formação em Gestão Hoteleira e em inteligência artificial, e experiência em hotéis de luxo internacionais.
 
 Service and sales consultancy for independent hotels and guesthouses in Portugal: more direct bookings, lower OTA commissions and more revenue per guest, using luxury hotel service standards. Site in European Portuguese.
 
 ## Serviços
 
 - [Diagnóstico Estadia Mistério](https://fifthstarhospitality.com/#servicos): 390 € + IVA, entrega em 7 dias. Pedido de reserva mistério por email, WhatsApp e Instagram; auditoria do site, Google, Booking e Airbnb; análise das últimas 100 avaliações; relatório com as 10 ações prioritárias; chamada de 60 minutos.
-- [Crescimento](https://fifthstarhospitality.com/#servicos): acompanhamento mensal a partir de 290 €/mês + IVA, mais uma parte ligada aos resultados, com teto. Mínimo 6 meses. Resposta a avaliações, emails pré-chegada com oferta de extras, conteúdo para o Instagram, guião de vendas para a receção e relatório mensal.
-- [Formação de equipa](https://fifthstarhospitality.com/#servicos): 450 € + IVA, até 12 pessoas. Workshop online de 2 horas e manual de padrões de serviço.
+- [Crescimento](https://fifthstarhospitality.com/#servicos): acompanhamento mensal com proposta à medida, conforme a dimensão da unidade, e uma parte ligada aos resultados. Resposta a avaliações, emails pré-chegada com oferta de extras, conteúdo para o Instagram, guião de vendas para a receção e relatório mensal.
+- [Formação de equipa](https://fifthstarhospitality.com/#servicos): proposta à medida, conforme a dimensão da equipa. Workshop online de 2 horas e manual de padrões de serviço.
 
 ## Como funciona
 
@@ -22,7 +22,7 @@ Reservas diretas e comissões poupadas; nota média no Google, Booking e TripAdv
 
 ## Perguntas frequentes
 
-- **Quanto custa a consultoria?** O Diagnóstico Estadia Mistério custa 390 € + IVA. O acompanhamento mensal começa nos 290 €/mês + IVA, com uma parte ligada aos resultados e um teto, e tem um mínimo de 6 meses. A formação de equipa custa 450 € + IVA, até 12 pessoas. A análise de cortesia é gratuita.
+- **Quanto custa a consultoria?** O Diagnóstico Estadia Mistério custa 390 € + IVA. O acompanhamento mensal e a formação de equipa têm uma proposta à medida, conforme a dimensão e as necessidades de cada unidade, que apresentamos depois do diagnóstico. A análise de cortesia é gratuita.
 - **O que é a Estadia Mistério?** Pedimos uma reserva como qualquer hóspede, por email, WhatsApp e Instagram, e auditamos o site, o Google, o Booking e o Airbnb, além das últimas 100 avaliações. Em 7 dias recebe um relatório com as 10 ações prioritárias e uma chamada de 60 minutos para o apresentar.
 - **Para que tipo de alojamento é?** Para hotéis e alojamentos independentes ou familiares, entre 5 e 40 quartos: hotéis boutique, alojamento local e turismo rural.
 - **Quando se veem resultados?** As correções rápidas (Google, preços e botão de reserva) fazem-se nos primeiros 30 dias. A primeira revisão de resultados com o hotel é aos 90 dias.
