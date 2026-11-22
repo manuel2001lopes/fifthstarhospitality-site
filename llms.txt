@@ -20,6 +20,17 @@ Service and sales consultancy for independent hotels and guesthouses in Portugal
 
 Reservas diretas e comissões poupadas; nota média no Google, Booking e TripAdvisor; tempo de resposta e conversão de pedidos em reservas; receita de extras por hóspede; preço médio por noite e RevPAR; hóspedes que regressam e recomendam.
 
+## Perguntas frequentes
+
+- **Quanto custa a consultoria?** O Diagnóstico Estadia Mistério custa 390 € + IVA. O acompanhamento mensal começa nos 290 €/mês + IVA, com uma parte ligada aos resultados e um teto, e tem um mínimo de 6 meses. A formação de equipa custa 450 € + IVA, até 12 pessoas. A análise de cortesia é gratuita.
+- **O que é a Estadia Mistério?** Pedimos uma reserva como qualquer hóspede, por email, WhatsApp e Instagram, e auditamos o site, o Google, o Booking e o Airbnb, além das últimas 100 avaliações. Em 7 dias recebe um relatório com as 10 ações prioritárias e uma chamada de 60 minutos para o apresentar.
+- **Para que tipo de alojamento é?** Para hotéis e alojamentos independentes ou familiares, entre 5 e 40 quartos: hotéis boutique, alojamento local e turismo rural.
+- **Quando se veem resultados?** As correções rápidas (Google, preços e botão de reserva) fazem-se nos primeiros 30 dias. A primeira revisão de resultados com o hotel é aos 90 dias.
+- **O que precisam do hotel?** Os dados de reservas e receita por canal dos últimos 12 meses, acesso à ficha do Google, acesso de leitura ao motor de reservas e uma pessoa da casa com poder de decisão.
+- **Como ter mais reservas diretas e depender menos do Booking?** Há quatro passos com mais efeito: pôr o site oficial nos preços do Google, garantir que o site nunca é mais caro do que as plataformas, dar vantagens a quem reserva direto em vez de descontos (pequeno-almoço, saída mais tarde, estacionamento) e responder depressa a quem pergunta por email, WhatsApp ou Instagram.
+- **Trabalham fora de Lisboa?** Sim. O diagnóstico e a formação fazem-se à distância, por isso trabalhamos com alojamentos em todo o país.
+- **O meu hotel aparece no ChatGPT?** Cada vez mais hóspedes pedem sugestões de alojamento ao ChatGPT, ao Gemini ou às respostas de IA do Google. Verificamos se o seu hotel é recomendado nessas pesquisas e dizemos o que falta para aparecer.
+
 ## Contacto
 
 - Email: fifthstarhospitality@gmail.com
