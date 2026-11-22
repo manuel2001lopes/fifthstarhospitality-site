@@ -6,7 +6,7 @@ Service and sales consultancy for independent hotels and guesthouses in Portugal
 
 ## Serviços
 
-- [Diagnóstico Estadia Mistério](https://fifthstarhospitality.com/#servicos): 390 € + IVA, entrega em 7 dias. Pedido de reserva mistério por email, WhatsApp e Instagram; auditoria do site, Google, Booking e Airbnb; análise das últimas 100 avaliações; relatório com as 10 ações prioritárias; chamada de 60 minutos.
+- [Diagnóstico Estadia Mistério](https://fifthstarhospitality.com/#servicos): 390 € + IVA, entrega em 7 dias. Pedido de reserva mistério por email, WhatsApp e Instagram; auditoria do site, Google, Booking e Airbnb; análise das últimas 100 avaliações; relatório com as 10 ações prioritárias; chamada de 60 minutos. Exemplo com dados fictícios: https://fifthstarhospitality.com/exemplo-diagnostico.html
 - [Crescimento](https://fifthstarhospitality.com/#servicos): acompanhamento mensal com proposta à medida, conforme a dimensão da unidade, e uma parte ligada aos resultados. Resposta a avaliações, emails pré-chegada com oferta de extras, conteúdo para o Instagram, guião de vendas para a receção e relatório mensal.
 - [Formação de equipa](https://fifthstarhospitality.com/#servicos): proposta à medida, conforme a dimensão da equipa. Workshop online de 2 horas e manual de padrões de serviço.
 
