@@ -34,6 +34,7 @@ Em segunda e sexta publica-se também 1 story.
 - Sem resultados de clientes que não existam. Sem promessas de números.
 - Sem logótipos de terceiros. Nomes de plataformas (Booking, Airbnb, Google) podem aparecer em texto.
 - Fecho de cada carrossel: convite à análise de cortesia ou a mandar mensagem.
+- Guia gratuito: quem envia a palavra GUIA por mensagem recebe automaticamente (ManyChat) o "teste dos 5 minutos" (https://fifthstarhospitality.com/teste-google.html). Em pelo menos um post em cada dois, a legenda inclui a linha: "Quer o nosso teste gratuito de 5 minutos? Envie GUIA por mensagem." Nos posts de dica e de serviço pode também ir no slide de fecho. Não pedir para comentar GUIA: só funciona por mensagem.
 - Legenda: 80 a 180 palavras, primeira linha forte, frases curtas, fonte quando houver, CTA, 4 a 6 hashtags no fim (#hotelaria #alojamentolocal #reservasdiretas #turismoportugal e um ou dois do tema).
 
 ## Fotografias
