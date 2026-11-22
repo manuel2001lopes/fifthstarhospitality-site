@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>O teste dos 5 minutos: o seu hotel no Google · Fifth Star Hospitality</title>
+<meta name="description" content="Um guia gratuito para donos de hotéis e alojamentos: veja em 5 minutos se está a perder reservas diretas no Google.">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://fifthstarhospitality.com/teste-google.html">
+<link rel="icon" type="image/png" href="favicon.png">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<style>
+  :root { --papel:#FAF7F0; --papel2:#F2ECE0; --ficha:#FFFDF8; --tinta:#1B1B1B; --cinza:#5A554C; --tijolo:#A8361F; --ponto:#B3AC9E; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--papel); color: var(--tinta); font-family: 'Newsreader', Georgia, serif; }
+  .folha { max-width: 760px; margin: 0 auto; padding: 40px 24px 64px; }
+  .topo { display: flex; justify-content: space-between; align-items: center; padding-bottom: 14px; border-bottom: 2px solid var(--tinta); }
+  .marca { display: flex; align-items: center; gap: 10px; font-size: 20px; font-weight: 500; color: var(--tinta); text-decoration: none; }
+  .mono { font-family: 'IBM Plex Mono', monospace; }
+  .num { font-family: 'IBM Plex Mono', monospace; font-size: 13px; }
+  .rotulo { font-family: 'IBM Plex Mono', monospace; font-size: 14px; color: var(--tijolo); margin: 48px 0 12px; }
+  h1 { font-weight: 400; font-size: clamp(40px, 7vw, 64px); line-height: 1.03; letter-spacing: -0.01em; margin: 0 0 20px; }
+  h1 em { color: var(--tijolo); }
+  .intro { font-size: 20px; line-height: 1.55; color: var(--cinza); margin: 0; }
+  .como { margin-top: 28px; border: 1.5px solid var(--tinta); background: var(--ficha); padding: 18px 24px; font-family: 'IBM Plex Mono', monospace; font-size: 14px; line-height: 1.6; }
+  .passo { margin-top: 40px; padding-top: 22px; border-top: 1px dashed var(--ponto); }
+  .passo h2 { font-weight: 400; font-size: 30px; line-height: 1.15; margin: 0 0 8px; }
+  .passo h2 .n { font-family: 'IBM Plex Mono', monospace; font-size: 20px; color: var(--tijolo); margin-right: 12px; }
+  .passo p { font-size: 18px; line-height: 1.6; color: var(--cinza); margin: 0 0 12px; }
+  ul.check { list-style: none; padding: 0; margin: 12px 0 0; border: 1.5px solid var(--tinta); background: var(--ficha); }
+  ul.check li { display: flex; gap: 14px; align-items: baseline; padding: 14px 20px; border-top: 1px dashed var(--ponto); font-size: 18px; line-height: 1.45; }
+  ul.check li:first-child { border-top: 0; }
+  ul.check li { cursor: pointer; user-select: none; }
+  ul.check li::before { content: ''; flex: none; width: 16px; height: 16px; border: 1.5px solid var(--tinta); position: relative; top: 2px; }
+  ul.check li.feito::before { background: var(--tijolo); border-color: var(--tijolo); box-shadow: inset 0 0 0 3px var(--ficha); }
+  .contador { font-family: 'IBM Plex Mono', monospace; font-size: 15px; margin: 0 0 12px; }
+  .resultado div.atual span { color: var(--tijolo); font-weight: 500; }
+  .porque { font-family: 'IBM Plex Mono', monospace; font-size: 13px !important; line-height: 1.55 !important; color: var(--cinza); margin-top: 12px !important; }
+  .resultado { margin-top: 48px; border: 1.5px solid var(--tinta); background: var(--ficha); padding: 8px 24px 20px; font-family: 'IBM Plex Mono', monospace; font-size: 15px; line-height: 1.5; }
+  .resultado div { display: flex; justify-content: space-between; gap: 20px; padding: 14px 0; border-top: 1px dashed var(--ponto); }
+  .resultado div:first-child { border-top: 0; }
+  .resultado span:last-child { text-align: right; }
+  .fecho { margin-top: 56px; padding-top: 28px; border-top: 2px solid var(--tinta); }
+  .fecho h2 { font-weight: 400; font-size: 38px; line-height: 1.1; margin: 0 0 14px; }
+  .fecho h2 em { color: var(--tijolo); }
+  .fecho p { font-size: 18px; line-height: 1.6; color: var(--cinza); margin: 0 0 22px; }
+  .botao { display: inline-block; background: var(--tinta); color: var(--papel); text-decoration: none; font-family: 'IBM Plex Mono', monospace; font-size: 15px; padding: 16px 24px; }
+  .botao:hover { background: var(--tijolo); }
+  .rodape { margin-top: 56px; padding-top: 14px; border-top: 1px dashed var(--ponto); display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; font-family: 'IBM Plex Mono', monospace; font-size: 13px; color: var(--cinza); }
+  .rodape a { color: var(--cinza); }
+  .imprimir { background: none; border: 1.5px solid var(--tinta); color: var(--tinta); font-family: 'IBM Plex Mono', monospace; font-size: 13px; padding: 8px 12px; cursor: pointer; }
+  @media print {
+    @page { size: A4; margin: 14mm; }
+    html, body { background: #fff; }
+    .folha { padding: 0; max-width: none; }
+    .imprimir, .botao { display: none; }
+    .passo, .resultado { break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+<div class="folha">
+  <header class="topo">
+    <a class="marca" href="/"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.6 7-6.2-3.8-6.2 3.8 1.6-7L2 9.2l7.1-.6z" fill="#A8361F"/></svg>Fifth Star Hospitality</a>
+    <button class="imprimir" onclick="window.print()">Guardar em PDF</button>
+  </header>
+
+  <p class="rotulo">Guia gratuito</p>
+  <h1>O teste dos 5 minutos. <em>O seu hotel no Google.</em></h1>
+  <p class="intro">Antes de reservar, quase todos os hóspedes pesquisam o nome do hotel. O que encontram nesse momento decide se reservam no seu site ou numa plataforma que lhe cobra comissão. Faça este teste como se fosse um hóspede e veja o que ele vê.</p>
+
+  <div class="como">Como fazer: use o telemóvel, abra uma janela anónima (para o Google não o reconhecer) e tenha à mão duas datas de uma estadia daqui a umas semanas. Marque cada caixa em que a resposta for "sim".</div>
+
+  <section class="passo">
+    <h2><span class="n">01</span>Pesquise o nome do hotel</h2>
+    <p>Escreva o nome do hotel e a cidade, como um hóspede faria.</p>
+    <ul class="check">
+      <li>O primeiro resultado, abaixo dos anúncios, é o seu site oficial.</li>
+      <li>Não há anúncios de plataformas a usar o nome do seu hotel antes de si.</li>
+    </ul>
+    <p class="porque">Se há anúncios com o seu nome, há hóspedes que já o escolheram a ser desviados para uma reserva com comissão.</p>
+  </section>
+
+  <section class="passo">
+    <h2><span class="n">02</span>Veja os preços no Google</h2>
+    <p>Na ficha do hotel (à direita no computador, em cima no telemóvel), procure os preços e escolha as suas duas datas.</p>
+    <ul class="check">
+      <li>O site oficial aparece na lista de preços.</li>
+      <li>O preço do site oficial é igual ou mais baixo do que o das plataformas.</li>
+    </ul>
+    <p class="porque">Se o site oficial não aparece, ou aparece mais caro, o hóspede reserva onde é mais barato, e esse sítio não é o seu site.</p>
+  </section>
+
+  <section class="passo">
+    <h2><span class="n">03</span>Olhe para a ficha do Google</h2>
+    <p>A mesma ficha é a montra do hotel. Veja-a com olhos de quem nunca lá esteve.</p>
+    <ul class="check">
+      <li>Telefone, morada e link do site estão certos.</li>
+      <li>Há fotos recentes, de quartos, espaços comuns e pequeno-almoço.</li>
+      <li>As avaliações dos últimos meses têm resposta do hotel.</li>
+    </ul>
+  </section>
+
+  <section class="passo">
+    <h2><span class="n">04</span>Tente reservar no seu site</h2>
+    <p>Entre no site pelo link da ficha e tente chegar ao preço final para as suas datas.</p>
+    <ul class="check">
+      <li>Em 3 toques ou menos chega ao preço para as suas datas.</li>
+      <li>Tudo funciona bem no telemóvel, sem zoom nem páginas a carregar.</li>
+      <li>Há uma razão clara para reservar ali (pequeno-almoço, cancelamento grátis, um extra).</li>
+    </ul>
+  </section>
+
+  <section class="passo">
+    <h2><span class="n">05</span>Leia o que dizem de si</h2>
+    <p>Leia as últimas 10 avaliações, no Google e na plataforma onde tem mais reservas.</p>
+    <ul class="check">
+      <li>Não há a mesma queixa repetida em várias avaliações.</li>
+      <li>O que os hóspedes mais elogiam também aparece no seu site e nas fotos.</li>
+    </ul>
+  </section>
+
+  <p class="rotulo">O resultado</p>
+  <p class="contador">Caixas marcadas: <span id="conta">0</span> de 12</p>
+  <div class="resultado">
+    <div data-min="12"><span>12 de 12</span><span>Está no bom caminho</span></div>
+    <div data-min="8"><span>8 a 11</span><span>Há reservas diretas a fugir</span></div>
+    <div data-min="0"><span>Menos de 8</span><span>Há muito para ganhar, e rápido</span></div>
+  </div>
+
+  <section class="fecho">
+    <h2>Encontrou caixas por marcar? <em>Nós dizemos-lhe por onde começar.</em></h2>
+    <p>Fazemos este teste em profundidade, mais um pedido de reserva mistério e a leitura das suas avaliações. Para começar, peça uma análise de cortesia: mostramos-lhe três oportunidades concretas para o seu hotel, sem compromisso.</p>
+    <a class="botao" href="/#contacto">Pedir a análise de cortesia →</a>
+  </section>
+
+  <footer class="rodape">
+    <span><a href="/">fifthstarhospitality.com</a></span>
+    <span>fifthstarhospitality@gmail.com</span>
+  </footer>
+</div>
+<script>
+(function(){
+  var itens=document.querySelectorAll('ul.check li'), conta=document.getElementById('conta'), linhas=document.querySelectorAll('.resultado div');
+  function atualizar(){
+    var n=document.querySelectorAll('ul.check li.feito').length; conta.textContent=n;
+    var marcada=false;
+    linhas.forEach(function(l){ var ok=!marcada && n>=+l.dataset.min; l.classList.toggle('atual', ok); if(ok) marcada=true; });
+  }
+  itens.forEach(function(li){ li.setAttribute('role','checkbox'); li.setAttribute('aria-checked','false'); li.tabIndex=0;
+    function t(){ li.classList.toggle('feito'); li.setAttribute('aria-checked', li.classList.contains('feito')); atualizar(); }
+    li.addEventListener('click', t); li.addEventListener('keydown', function(e){ if(e.key===' '||e.key==='Enter'){ e.preventDefault(); t(); } });
+  });
+  atualizar();
+})();
+</script>
+</body>
+</html>
