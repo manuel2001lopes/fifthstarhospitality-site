@@ -1,0 +1,79 @@
+{
+  "id": "diagnostico",
+  "tipo_post": "servico",
+  "slides": [
+    {
+      "tipo": "capa",
+      "rotulo": "O diagnóstico",
+      "titulo": "Vemos o seu hotel como um hóspede o vê. Em 7 dias."
+    },
+    {
+      "tipo": "pesquisa",
+      "rotulo": "1 · Ser encontrado",
+      "titulo": "Pesquisamos o seu hotel no Google.",
+      "consulta": "o seu hotel + cidade",
+      "resultados": [
+        {
+          "etiqueta": "Patrocinado",
+          "url": "plataforma de reservas",
+          "nome": "O Seu Hotel · Reserve já",
+          "detalhe": "Anúncio pago pela plataforma, com o seu nome"
+        },
+        {
+          "etiqueta": "Patrocinado",
+          "url": "outra plataforma",
+          "nome": "O Seu Hotel · Ofertas",
+          "detalhe": "Mais um anúncio antes de si"
+        },
+        {
+          "url": "oseuhotel.pt",
+          "nome": "O Seu Hotel · Site oficial",
+          "detalhe": "Só aparece em terceiro lugar",
+          "destaque": true
+        }
+      ],
+      "texto": "Exemplo ilustrativo. Vemos onde aparece, a que preço e quem fica com a reserva."
+    },
+    {
+      "tipo": "livro",
+      "rotulo": "2 · Estadia mistério",
+      "titulo": "Pedimos uma reserva, como um hóspede.",
+      "linhas": [
+        [
+          "Email",
+          "tempo de resposta"
+        ],
+        [
+          "WhatsApp",
+          "tom e clareza"
+        ],
+        [
+          "Instagram",
+          "se há resposta"
+        ],
+        [
+          "Site oficial",
+          "preço e passos até pagar"
+        ]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "rotulo": "3 · Avaliações",
+      "titulo": "As últimas 100 avaliações, uma a uma.",
+      "itens": [
+        "O que os hóspedes elogiam sem lhe pedirem",
+        "As queixas que se repetem",
+        "Como e quando o hotel responde"
+      ]
+    },
+    {
+      "tipo": "fecho",
+      "rotulo": "No fim",
+      "titulo": "10 ações prioritárias. Por ordem de impacto.",
+      "texto": "Quer ver primeiro como funciona? Peça uma análise de cortesia: mostramos três oportunidades concretas, sem compromisso."
+    }
+  ],
+  "legenda": "O que fazemos no diagnóstico, em três partes:\n\n1. Ser encontrado. Pesquisamos o seu hotel no Google e vemos quem aparece antes de si, a que preço e quem fica com a reserva.\n2. Estadia mistério. Pedimos uma reserva por email, WhatsApp, Instagram e site, como qualquer hóspede, e medimos o que acontece.\n3. Avaliações. Lemos as últimas 100, uma a uma: o que elogiam, o que se repete nas queixas e como o hotel responde.\n\nNo fim recebe 10 ações prioritárias, por ordem de impacto. Em 7 dias.\n\nQuer ver primeiro como funciona? Peça uma análise de cortesia por mensagem.\n\n#hotelaria #alojamentolocal #reservasdiretas #turismoportugal #consultoriahoteleira",
+  "publicar_em": "2026-11-27"
+}

@@ -1,2 +1,9 @@
 [build]
   publish = "."
+
+# Ferramentas internas (geração de posts): não servir no site
+[[redirects]]
+  from = "/_ferramentas/*"
+  to = "/"
+  status = 404
+  force = true

@@ -1,0 +1,74 @@
+{
+  "id": "resposta-lenta",
+  "tipo_post": "dica",
+  "slides": [
+    {
+      "tipo": "capa",
+      "rotulo": "Erro comum",
+      "titulo": "Um pedido de reserva às 22h. A resposta chegou no dia seguinte."
+    },
+    {
+      "tipo": "conversa",
+      "rotulo": "Exemplo",
+      "titulo": "13 horas depois.",
+      "mensagens": [
+        {
+          "de": "hospede",
+          "texto": "Boa noite! Têm quarto duplo de 14 a 16 de março? Qual é o preço com pequeno-almoço?",
+          "hora": "22:04"
+        },
+        {
+          "de": "hotel",
+          "texto": "Bom dia! Temos sim. Envio já o preço.",
+          "hora": "11:12 do dia seguinte",
+          "alerta": true
+        }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "Porque custa caro",
+      "titulo": "Quem pergunta a um, pergunta a três. Ganha quem responde primeiro.",
+      "texto": "Um hóspede que envia um pedido raramente fica à espera de uma só resposta. Enquanto o seu hotel não responde, outro responde e fecha a reserva."
+    },
+    {
+      "tipo": "checklist",
+      "rotulo": "Como resolver",
+      "titulo": "Minutos, não horas.",
+      "itens": [
+        "Resposta automática imediata, com preço e link de reserva",
+        "Modelos prontos para as 5 perguntas mais comuns",
+        "Email, WhatsApp e Instagram no mesmo telemóvel da receção",
+        "Alguém responsável pelos pedidos à noite e ao fim de semana"
+      ]
+    },
+    {
+      "tipo": "fecho",
+      "rotulo": "E no seu hotel?",
+      "titulo": "Quanto tempo demora a responder? Fazemos o teste por si.",
+      "texto": "No diagnóstico enviamos pedidos de reserva mistério por email, WhatsApp e Instagram e medimos o tempo de resposta."
+    }
+  ],
+  "stories": [
+    {
+      "tipo": "conversa",
+      "rotulo": "Erro comum",
+      "titulo": "13 horas para responder a um pedido de reserva.",
+      "mensagens": [
+        {
+          "de": "hospede",
+          "texto": "Têm quarto de 14 a 16 de março?",
+          "hora": "22:04"
+        },
+        {
+          "de": "hotel",
+          "texto": "Bom dia! Temos sim.",
+          "hora": "11:12 do dia seguinte",
+          "alerta": true
+        }
+      ]
+    }
+  ],
+  "legenda": "Um hóspede manda um pedido às 22h. O hotel responde às 11h do dia seguinte, com toda a simpatia. Só que, entretanto, o hóspede já reservou noutro lado.\n\nQuem pergunta a um alojamento, normalmente pergunta a três. Ganha quem responde primeiro.\n\nO que resolve isto:\n· resposta automática imediata, com preço e link de reserva\n· modelos prontos para as perguntas mais comuns\n· email, WhatsApp e Instagram no mesmo telemóvel da receção\n· alguém responsável pelos pedidos à noite e ao fim de semana\n\nQuanto tempo demora o seu hotel a responder? No diagnóstico fazemos o teste por si, como um hóspede. Fale connosco por mensagem.\n\n#hotelaria #alojamentolocal #reservasdiretas #turismoportugal #hoteisindependentes",
+  "publicar_em": "2026-11-23"
+}
