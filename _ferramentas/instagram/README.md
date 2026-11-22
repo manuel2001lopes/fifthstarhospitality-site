@@ -1,6 +1,6 @@
 # Instagram da Fifth Star Hospitality: manual da publicação automática
 
-Esta pasta é usada pela tarefa agendada que publica no Instagram (@fifthstarhospitality, conta ligada via Composio como `instagram_tail-els`, ig_user_id `29072812052374839`) à segunda, quarta e sexta.
+Esta pasta é usada pela tarefa agendada que publica no Instagram (@fifthstarhospitality, conta Composio `fifthstarhospitality`, ig_user_id `29072812052374839`) à segunda, quarta e sexta.
 
 ## Calendário
 
@@ -18,9 +18,9 @@ Em segunda e sexta publica-se também 1 story.
 2. Se não houver, criar um post novo do tipo do dia. Ler `publicados/registo.md` para não repetir temas das últimas 6 semanas.
 3. Atribuir `id` (`AAAA-MM-DD-tema`) e `numero` (`N.º XX`, o seguinte ao último do registo).
 4. Gerar as imagens: `python3 fsh_ig.py post.json --out /tmp/out`. Ver cada imagem antes de publicar (texto cortado, gralhas, número errado).
-5. Copiar os JPG para `social/posts/<id>/` na raiz do site, mover o JSON da fila (ou o novo) para `publicados/`, acrescentar a linha ao registo. PR + merge.
-6. Esperar que `https://fifthstarhospitality.com/social/posts/<id>/<id>-1.jpg` esteja online (cerca de 2 minutos depois do merge).
-7. Publicar o carrossel e, se houver, o story.
+5. Copiar os JPG para `social/posts/<id>/` neste ramo (`instagram-automatico`), mover o JSON da fila (ou o novo) para `publicados/`, acrescentar a linha ao registo, commit e push **para este ramo**. Nunca fazer merge para `main`: o site em produção não é tocado.
+6. As imagens ficam públicas em `https://raw.githubusercontent.com/manuel2001lopes/fifthstarhospitality-site/instagram-automatico/social/posts/<id>/<id>-1.jpg` (confirmar com `curl -sI` que dá 200, pode demorar 1 a 2 minutos).
+7. Publicar via Composio, conta `fifthstarhospitality`, ig_user_id `29072812052374839`: criar um contentor por imagem (`INSTAGRAM_POST_IG_USER_MEDIA` com `image_url` e `is_carousel_item: true`), depois `INSTAGRAM_CREATE_CAROUSEL_CONTAINER` com os ids e a legenda, depois `INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH`. Story: `INSTAGRAM_POST_IG_USER_MEDIA` com `media_type: STORIES` e depois publicar. Ver os nomes exatos dos campos com `COMPOSIO_GET_TOOL_SCHEMAS` antes.
 
 ## Regras de conteúdo (não negociáveis)
 
