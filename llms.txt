@@ -1,14 +1,22 @@
 # Fifth Star Hospitality
 
-> Consultoria de serviço e vendas para hotéis e alojamentos independentes em Portugal. Ajudamos unidades independentes ou familiares (cerca de 5 a 40 quartos) a ter mais reservas diretas, pagar menos comissões às plataformas e ganhar mais por hóspede, com padrões de serviço de hotelaria de luxo.
+> Consultoria de serviço e vendas para hotéis e alojamentos independentes em Portugal. Ajudamos unidades independentes ou familiares (cerca de 5 a 40 quartos) a ter mais reservas diretas, pagar menos comissões às plataformas e ganhar mais por hóspede, com IA e padrões de serviço de hotelaria de luxo.
 
-Service and sales consultancy for independent hotels and guesthouses in Portugal: more direct bookings, lower OTA commissions and more revenue per guest, using luxury hotel service standards. Site in European Portuguese.
+Service and sales consultancy for independent hotels and guesthouses in Portugal: more direct bookings, lower OTA commissions and more revenue per guest, using AI and luxury hotel service standards. Site in European Portuguese.
 
 ## Serviços
 
-- [Diagnóstico Estadia Mistério](https://fifthstarhospitality.com/#servicos): 390 € + IVA, entrega em 7 dias. Pedido de reserva mistério por email, WhatsApp e Instagram; auditoria do site, Google, Booking e Airbnb; análise das últimas 100 avaliações; relatório com as 10 ações prioritárias; chamada de 60 minutos. Exemplo com dados fictícios: https://fifthstarhospitality.com/exemplo-diagnostico.html
-- [Crescimento](https://fifthstarhospitality.com/#servicos): acompanhamento mensal com proposta à medida, conforme a dimensão da unidade, e uma parte ligada aos resultados. Resposta a avaliações, emails pré-chegada com oferta de extras, conteúdo para o Instagram, guião de vendas para a receção e relatório mensal.
+- [Diagnóstico Estadia Mistério](https://fifthstarhospitality.com/#servicos): 390 € + IVA, entrega em 7 dias. Pedido de reserva mistério por email, WhatsApp e Instagram; auditoria do site, Google, Booking e Airbnb; análise das últimas 100 avaliações; verificação da visibilidade no ChatGPT e nas respostas de IA do Google; relatório com as 10 ações prioritárias; chamada de 60 minutos. Exemplo com dados fictícios: https://fifthstarhospitality.com/exemplo-diagnostico.html
+- [Crescimento](https://fifthstarhospitality.com/#servicos): acompanhamento mensal com proposta à medida, conforme a dimensão da unidade, e uma parte ligada aos resultados. Resposta a avaliações escrita com IA e revista pela equipa, emails pré-chegada com oferta de extras, conteúdo para o Instagram, guião de vendas para a receção e relatório mensal.
 - [Formação de equipa](https://fifthstarhospitality.com/#servicos): proposta à medida, conforme a dimensão da equipa. Workshop online de 2 horas e manual de padrões de serviço.
+
+## Onde entra a IA
+
+- Pedidos de reserva respondidos a qualquer hora: um assistente responde no WhatsApp e no Instagram em segundos, com a informação da casa, envia o link do motor de reservas e passa à equipa o que precisa de uma pessoa.
+- Nenhuma avaliação sem resposta: a IA escreve cada resposta no tom da casa e a equipa revê antes de publicar.
+- O hotel nas respostas do ChatGPT: verificamos se o hotel aparece quando um hóspede pede sugestões ao ChatGPT, ao Gemini ou ao Google, e o que falta para aparecer.
+
+A IA faz o trabalho repetitivo. O padrão de serviço continua a ser decidido por pessoas.
 
 ## Como funciona
 
