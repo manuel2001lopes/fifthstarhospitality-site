@@ -6,7 +6,7 @@ Service and sales consultancy for independent hotels and guesthouses in Portugal
 
 ## Serviços
 
-- [Diagnóstico Estadia Mistério](https://fifthstarhospitality.com/#servicos): 390 €, entrega em 7 dias. Pedido de reserva mistério por email, WhatsApp e Instagram; auditoria do site, Google, Booking e Airbnb; análise das últimas 100 avaliações; verificação da visibilidade no ChatGPT e nas respostas de IA do Google; relatório com as 10 ações prioritárias; chamada de 60 minutos. Exemplo com dados fictícios: https://fifthstarhospitality.com/exemplo-diagnostico.html
+- [Diagnóstico Estadia Mistério](https://fifthstarhospitality.com/#servicos): 390 €, entrega em 7 dias. Pedido de reserva mistério por email, WhatsApp e Instagram; auditoria do site, Google, Booking e Airbnb; análise das últimas 100 avaliações; verificação da visibilidade no ChatGPT e nas respostas de IA do Google; relatório com as 10 ações prioritárias; chamada de 45 minutos. Exemplo com dados fictícios: https://fifthstarhospitality.com/exemplo-diagnostico.html
 - [Crescimento](https://fifthstarhospitality.com/#servicos): acompanhamento mensal com proposta à medida, conforme a dimensão da unidade, e uma parte ligada aos resultados. Resposta a avaliações escrita com IA e revista pela equipa, emails pré-chegada com oferta de extras, conteúdo para o Instagram, guião de vendas para a receção e relatório mensal.
 - [Formação de equipa](https://fifthstarhospitality.com/#servicos): proposta à medida, conforme a dimensão da equipa. Workshop online de 2 horas e manual de padrões de serviço.
 
@@ -31,7 +31,7 @@ Reservas diretas e comissões poupadas; nota média no Google, Booking e TripAdv
 ## Perguntas frequentes
 
 - **Quanto custa a consultoria?** O Diagnóstico Estadia Mistério custa 390 €. O acompanhamento mensal e a formação de equipa têm uma proposta à medida, conforme a dimensão e as necessidades de cada unidade, que apresentamos depois do diagnóstico. A análise de cortesia é gratuita.
-- **O que é a Estadia Mistério?** Pedimos uma reserva como qualquer hóspede, por email, WhatsApp e Instagram, e auditamos o site, o Google, o Booking e o Airbnb, além das últimas 100 avaliações. Em 7 dias recebe um relatório com as 10 ações prioritárias e uma chamada de 60 minutos para o apresentar.
+- **O que é a Estadia Mistério?** Pedimos uma reserva como qualquer hóspede, por email, WhatsApp e Instagram, e auditamos o site, o Google, o Booking e o Airbnb, além das últimas 100 avaliações. Em 7 dias recebe um relatório com as 10 ações prioritárias e uma chamada de 45 minutos para o apresentar.
 - **Para que tipo de alojamento é?** Para hotéis e alojamentos independentes ou familiares, entre 5 e 40 quartos: hotéis boutique, alojamento local e turismo rural.
 - **Quando se veem resultados?** As correções rápidas (Google, preços e botão de reserva) fazem-se nos primeiros 30 dias. A primeira revisão de resultados com o hotel é aos 90 dias.
 - **O que precisam do hotel?** Os dados de reservas e receita por canal dos últimos 12 meses, acesso à ficha do Google, acesso de leitura ao motor de reservas e uma pessoa da casa com poder de decisão.
